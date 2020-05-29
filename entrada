@@ -1,13 +1,13 @@
 <canais>
 <canal>
-<name> [COLOR orangered] ||| [/ COLOR] [COLOR white] SEJAM BEM VINDOS [/ COLOR] [COLOR orangered] ||| [/ COLOR] </name>
+<name> [COLOR orangered] ||| [/ COLOR] [COLOR white] SEJAM BEM VINDOS [/ COLOR] [COLOR em perigo] ||| [/ COLOR] </name>
 <thumbnail> </thumbnail>
-<externallink> https:// </externallink>
+<externallink> https: // </externallink>
 <fanart> https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg </fanart>
 <info>
 
 
-[COLOR deeppink] | [/ COLOR] - FILMES E SÉRIE E TV - [COLOR deeppink] | [/ COLOR] </info>
+[COR COLORIDA] [/ COLOR] - FILMES E SÉRIE E TV - [COLOR deeppink] | [/ COLOR] </info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <canais>
 <canal>
-<name> [COLOR indigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR em branco] ENTRE AQUI [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR indigo] ||| [/ COLOR] </name>
+<name> [COR Índigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR em branco] ENTRE AQUI [/ COLOR] [COLOR em perigo] ||| [/ COLOR] [COLOR deeppink] ||| [/ COLOR] [COLOR índigo] ||| [/ COLOR] </name>
 <thumbnail> https://ia601407.us.archive.org/2/items/entrar_20200507/entrar.png </thumbnail>
-<externallink> https://raw.githubusercontent.com/eduardo42/KLMOVIES/master/categorias </externallink>
+<externallink>https://raw.githubusercontent.com/eduardo42/KLMOVIES/master/categorias</externallink>
 <fanart> https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg </fanart>
 <info>
 
 
-[COLOR deeppink] | [/ COLOR] - FILMES E SÉRIE E TV - [COLOR deeppink] | [/ COLOR] </info>
+[COR COLORIDA] [/ COLOR] - FILMES E SÉRIE E TV - [COLOR deeppink] | [/ COLOR] </info>
 </channel>
 </channels>
 
