@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Filmes[/COLOR] [COLOR orangered]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801404.us.archive.org/25/items/fanart_20200320/bemvindo.png</thumbnail>
+<thumbnail>https://archive.org/services/img/filmes_20200507</thumbnail>
 <externallink>https://raw.githubusercontent.com/eduardo42/KLMOVIES/master/categoriasfilmes</externallink>
 <fanart>https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg</fanart>
 <info>
@@ -16,7 +16,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]Series[/COLOR] [COLOR orangered]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801404.us.archive.org/25/items/fanart_20200320/bemvindo.png</thumbnail>
+<thumbnail>https://archive.org/services/img/SEREIS</thumbnail>
 <externallink>https://raw.githubusercontent.com/eduardo42/KLMOVIES/master/Seiries</externallink>
 <fanart>https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg</fanart>
 <info>
