@@ -9,3 +9,13 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>Temporada 1</name>
+<thumbnail>https://image.tmdb.org/t/p/w58_and_h87_face/1PhrhZgmhSjqATOrJW6eoU0Gqa9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/eduardo42/KLMOVIES/master/The%20100%20T06</externallink>
+<fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
+<info>Noventa e sete anos após uma guerra mundial nuclear, a raça humana está vivendo no espaço. Cem delinquentes juvenis são enviados à Terra para ver se o planeta está em condições de ser habitado novamente.</info>
+</channel>
+</channels>
