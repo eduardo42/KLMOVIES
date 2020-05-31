@@ -1,6 +1,6 @@
 <item>
 <title>[B]Sanurai X  - [COLOR lime]HD[/COLOR] - DUBLADO - [COLOR red]OFF[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TFlGTzXdZni0-ZWNGLuGlp078_COcQSo/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PVNotOwrPTRU4d97GatYmZqTVWJdaW1w/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ks7Rgrh4a9gQuNMEVKwjND6Qwde.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5LfRACPpcdXo3K3yjZLswsYmzBJ.jpg</fanart>
 <info>Kenshin Himura (Takeru Satô) era um samurai, que trabalhava a serviço do Império, mas com o fim do xogunato e instauração do governo Meiji, ele faz a promessa de nunca mais voltar a matar. Quando ele se vê envolvido com uma série de assassinatos e negócios ilícitos relcionados a comercialização de ópio, seu compromisso é posto a prova, assim como a vida das pessoas que ele gosta.</info>
@@ -22,5 +22,23 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQthWB6c0ojlARk28NSTmqidbF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/zr9AFBByEYPZk4krrSSHIc22nJR.jpg</fanart>
 <info>Treinada desde cedo para ser uma guerreira imbatível, Diana Prince (Gal Gadot) nunca saiu da paradisíaca ilha em que é reconhecida como Princesa das Amazonas. Quando o piloto Steve Trevor (Chris Pine) se acidenta e cai numa praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]Fração de Segundos - [COLOR lime]HD[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1so58vz_yActlbFlstoKWtE_-HmFcsw2p/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYjx4zBS5uKC5u6pIObkawyv0QZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/3xxFtGWXybWoixONIgkMTpvbZCb.jpg</fanart>
+<info>Um homem perde dez minutos de sua memória devido a ser atingido por uma bala perdida, durante um assalto a um banco que deu errado. Ele deve juntar os pedaços de sua memória para descobrir quem sabotou o trabalho e pegou o dinheiro, tudo ao mesmo tempo em que é perseguido por um poderoso chefe do crime, que quer recuperar o dinheiro.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]1917 - [COLOR lime]HD[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F8Hh-GGWpDf81yD2XdZ89MKAFP-_7SNd/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/sERhH9ANDpAE6WaFX0n7JZXKAXC.jpg</fanart>
+<info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>
 <genre></genre>
 </item>
