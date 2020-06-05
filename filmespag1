@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>Filmes pagina 1</name>
+<name>Filmes</name>
 <thumbnail>https://archive.org/services/img/filmes_20200507</thumbnail>
 <externallink>https://raw.githubusercontent.com/eduardo42/KLMOVIES/master/conteudofilmespag1</externallink>
 <fanart>https://ia801404.us.archive.org/25/items/fanart_20200320/fanart.jpg</fanart>
